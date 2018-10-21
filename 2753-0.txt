@@ -1,22 +1,21 @@
 ﻿                               ALI PACHA
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you’ll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: Ali Pacha
-
 Author: Alexandre Dumas, Pere
-
 Release Date: August 15, 2006 [EBook #2753]
-
-Last Updated: 2012-02-20
-
+Reposted: November 28, 2016 [corrections made]
 Language: English
-
 Character set encoding: UTF-8
 
 
@@ -30,13 +29,14 @@ Produced by David Widger.
 
 
 
+
                               *ALI PACHA*
 
                                   _By_
 
                         *Alexandre Dumas, Pere*
 
-         _From the Set of Eight Volumes of "Celebrated Crimes"_
+         _From the Set of Eight Volumes of “Celebrated Crimes”_
 
 
                                   1910
@@ -47,7 +47,6 @@ Produced by David Widger.
 CONTENTS
 
 
-    CONTENTS
     *ALI PACHA*
     CHAPTER I
     CHAPTER II
@@ -253,10 +252,10 @@ unresisted, and presented himself before the paternal house, in which
 his brothers, forewarned, had barricaded themselves. He at once besieged
 them, soon forced the gates, and pursued them to a tent, in which they
 took a final refuge. He surrounded this tent, waited till they were
-inside it, and then set fire to the four corners. "See," said he to
-those around him, "they cannot accuse me of vindictive reprisals; my
+inside it, and then set fire to the four corners. “See,” said he to
+those around him, “they cannot accuse me of vindictive reprisals; my
 brothers drove me out of doors, and I retaliate by keeping them at home
-for ever."
+for ever.”
 
 In a few moments he was his father’s sole heir and master of Tepelen.
 Arrived at the summit of his ambition, he gave up free-booting, and
@@ -319,17 +318,17 @@ her husband, whom she feared, she seemed only an ordinary woman; but as
 soon as his eyes were closed, she gave free scope to the violent
 passions which agitated her bosom. Ambitious, bold, vindictive; she
 assiduously cultivated the germs of ambition, hardihood, and vengeance
-which already strongly showed themselves in the young Ali. "My son," she
-was never tired of telling him, "he who cannot defend his patrimony
+which already strongly showed themselves in the young Ali. “My son,” she
+was never tired of telling him, “he who cannot defend his patrimony
 richly deserves to lose it. Remember that the property of others is only
 theirs so long as they are strong enough to keep it, and that when you
 find yourself strong enough to take it from them, it is yours. Success
 justifies everything, and everything is permissible to him who has the
-power to do it."
+power to do it.”
 
 Ali, when he reached the zenith of his greatness, used to declare that
-his success was entirely his mother’s work. "I owe everything to my
-mother," he said one day to the French Consul; "for my father, when he
+his success was entirely his mother’s work. “I owe everything to my
+mother,” he said one day to the French Consul; “for my father, when he
 died, left me nothing but a den of wild beasts and a few fields. My
 imagination, inflamed by the counsels of her who has given me life twice
 over, since she has made me both a man and a vizier, revealed to me the
@@ -337,7 +336,7 @@ secret of my destiny. Thenceforward I saw nothing in Tepelen but the
 natal air from which I was to spring on the prey which I devoured
 mentally. I dreamt of nothing else but power, treasures, palaces, in
 short what time has realised and still promises; for the point I have
-now reached is not the limit of my hopes."
+now reached is not the limit of my hopes.”
 
 Kamco did not confine herself to words; she employed every means to
 increase the fortune of her beloved son and to make him a power. Her
@@ -372,9 +371,9 @@ twenty thousand piastres, and took them back to Tepelen.
 Ali had just returned. He was accosted by his mother and sister, pale
 with fatigue, shame, and rage. They told him what had taken place, with
 cries and tears, and Kamco added, fixing her distracted eyes upon him,
-"My son! my son! my soul will enjoy no peace till Kormovo and Kardikil
+“My son! my son! my soul will enjoy no peace till Kormovo and Kardikil
 destroyed by thy scimitar, will no longer exist to bear witness to my
-dishonour."
+dishonour.”
 
 Ali, in whom this sight and this story had aroused, sanguinary passions,
 promised a vengeance proportioned to the outrage, and worked with all
@@ -392,9 +391,9 @@ towns he had sworn to destroy. He marched against it at the head of his
 banditti, but found himself vigorously opposed, lost part of his force,
 and was obliged to save himself and the rest by flight. He did not stop
 till he reached Tepelen, where he had a warm reception from Kamco, whose
-thirst for vengeance had been disappointed by his defeat. "Go!" said
-she, "go, coward! go spin with the women in the harem! The distaff is a
-better weapon for you than the scimitar!" The young man answered not a
+thirst for vengeance had been disappointed by his defeat. “Go!” said
+she, “go, coward! go spin with the women in the harem! The distaff is a
+better weapon for you than the scimitar!” The young man answered not a
 word, but, deeply wounded by these reproaches, retired to hide his
 humiliation in the bosom of his old friend the mountain. The popular
 legend, always thirsting for the marvellous in the adventures of heroes,
@@ -524,7 +523,7 @@ dangers he had lately, experienced, and establish himself on a firm
 footing’ against possible accidents. He soon formed a plan, which he
 himself described to the French Consul in the following words:—
 
-"Years were elapsing," said he, "and brought no important change in my
+“Years were elapsing,” said he, “and brought no important change in my
 position. I was an important partisan, it is true, and strongly
 supported, but I held no title or Government employment of my own. I
 recognised the necessity of establishing myself firmly in my birthplace.
@@ -534,7 +533,7 @@ destroying them at one blow, and ended by devising one with which I
 ought to have commenced my career. Had I done so, I should have saved
 much time and pains.
 
-"I was in the habit of going every day, after hunting, for a siesta in a
+“I was in the habit of going every day, after hunting, for a siesta in a
 neighbouring wood. A confidential servant of mine suggested to my
 enemies the idea of surprising me and assassinating one there. I myself
 supplied the plan of the conspiracy, which was adopted. On the day
@@ -544,10 +543,10 @@ fastened under the tree, covered with my cape; I then returned home by a
 roundabout path. Soon after I had left, the conspirators arrived, and
 fired a volley at the goat.
 
-"They ran up to make certain of my death, but were interrupted by a
+“They ran up to make certain of my death, but were interrupted by a
 piquet of my men, who unexpectedly emerged from a copse where I had
 posted them, and they were obliged to return to Tepelen, which they
-entered, riotous with joy, crying ’Ali Bey is dead, now we are free!’
+entered, riotous with joy, crying ‘Ali Bey is dead, now we are free!’
 This news reached my harem, and I heard the cries of my mother and my
 wife mingled with the shouts of my enemies. I allowed the commotion to
 run its course and reach its height, so as to indicate which were my
@@ -559,7 +558,7 @@ upon the scene. Now was the time for my friends to triumph and for my
 foes to tremble. I set to work at the head of my partisans, and before
 sunrise had exterminated the last of my enemies. I distributed their
 lands, their houses, and their goods amongst my followers, and from that
-moment I could call the town of Tepelen my own."
+moment I could call the town of Tepelen my own.”
 
 A less ambitious man might perhaps have remained satisfied with such a
 result. But Ali did not look upon the suzerainty of a canton as a final
@@ -683,13 +682,13 @@ which were accepted. But instead of putting the cup in the hand
 stretched to receive it, he let it fall on the floor, where it broke
 into a thousand pieces. This was the signal. The assassins sprang from
 their retreat and darted upon Selim, who fell, exclaiming, like Caesar,
-"And it is thou, my son, who takest my life!"
+“And it is thou, my son, who takest my life!”
 
 At the sound of the tumult which followed the assassination, Selim’s
 bodyguard, running up, found Ali erect, covered with blood, surrounded
 by assassins, holding in his hand the firman displayed, and crying with
-a menacing voice, "I have killed the traitor Selim by the order of our
-glorious sultan; here is his imperial command." At these words, and the
+a menacing voice, “I have killed the traitor Selim by the order of our
+glorious sultan; here is his imperial command.” At these words, and the
 sight of the fatal diploma, all prostrated themselves terror-stricken.
 Ali, after ordering the decapitation of Selim, whose head he seized as a
 trophy, ordered the cadi, the beys, and the Greek archons to meet at the
@@ -720,7 +719,7 @@ all whom he caught, and drove the rest back into their mountains,
 splitting them up into small bands whom he could deal with at his
 pleasure. At the same time he sent a few heads to Constantinople, to
 amuse the sultan and the mob, and some money to the ministers to gain
-their support. "For," said he, "water sleeps, but envy never does."
+their support. “For,” said he, “water sleeps, but envy never does.”
 These steps were prudent, and whilst his credit increased at court,
 order was reestablished from the defiles of the Perrebia of Pindus to
 the vale of Tempe and to the pass of Thermopylae.
@@ -807,13 +806,13 @@ their family.
 The best mode of carrying out this terrible and self-given pledge was
 that Ali should resume his plans of aggrandizement exactly where he had
 left them. He succeeded in acquiring the pachalik of Janina, which was
-granted him by the Porte under the title of "arpalik," or conquest. It
+granted him by the Porte under the title of “arpalik,” or conquest. It
 was an old custom, natural to the warlike habits of the Turks, to bestow
 the Government provinces or towns affecting to despise the authority of
 the Grand Seigneur on whomsoever succeeded in controlling them, and
 Janina occupied this position. It was principally inhabited by
 Albanians, who had an enthusiastic admiration for anarchy, dignified by
-them with the name of "Liberty," and who thought themselves independent
+them with the name of “Liberty,” and who thought themselves independent
 in proportion to the disturbance they succeeded in making. Each lived
 retired as if in a mountain castle, and only went out in order to
 participate in the quarrels of his faction in the forum. As for the
@@ -1054,8 +1053,8 @@ pretexts, Ali gave out that the cause of his known dislike to this young
 man was that the latter, although his nephew by marriage, had several
 times fought in hostile ranks against him. Therefore the amiable Ibrahim
 made use of the marriage treaty to arrange an honourable reconciliation
-between Murad Bey and his uncle, and appointed the former "Ruler a the
-Marriage Feast," in which capacity he was charged to conduct the bride
+between Murad Bey and his uncle, and appointed the former “Ruler a the
+Marriage Feast,” in which capacity he was charged to conduct the bride
 to Janina and deliver her to her husband, the young Veli Bey. He had
 accomplished his mission satisfactorily, and was received by Ali with
 all apparent hospitality. The festival began on his arrival towards the
@@ -1186,9 +1185,9 @@ who, doomed to live surrounded by evil, yet remained virtuous and good.
 Her death caused universal mourning throughout Albania, and produced a
 not less deep impression on the mind of her murderer. Emineh’s spectre
 pursued him in his pleasures, in the council chamber, in the hours of
-night. He saw her, he heard her, and would awake, exclaiming, "my wife!
+night. He saw her, he heard her, and would awake, exclaiming, “my wife!
 my wife!—It is my wife!—Her eyes are angry; she threatens me!—Save me!
-Mercy!" For more than ten years Ali never dared to sleep alone.
+Mercy!” For more than ten years Ali never dared to sleep alone.
 
 
 
@@ -1275,9 +1274,9 @@ Euphrosyne’s house. Knowing his cruelty and avarice, she sought to
 disarm one by gratifying the other: she collected her money and jewels
 and laid them at Ali’s feet with a look of supplication.
 
-"These things are only my own property, which you restore," said he,
-taking possession of the rich offering. "Can you give back the heart of
-Mouktar, which you have stolen?"
+“These things are only my own property, which you restore,” said he,
+taking possession of the rich offering. “Can you give back the heart of
+Mouktar, which you have stolen?”
 
 Euphrosyne besought him by his paternal feelings, for the sake of his
 son whose love had been her misfortune and was now her only crime, to
@@ -1306,9 +1305,9 @@ with white iris and sheltered by a wild olive tree, is yet shown.
 
 Mouktar was returning from his expedition when a courier from his
 brother Veli brought him a letter informing him of these events. He
-opened it. "Euphrosyne!" he cried, and, seizing one of his pistols,
-fired it at the messenger, who fell dead at his feet,—"Euphrosyne,
-behold thy first victim!" Springing on his horse, he galloped towards
+opened it. “Euphrosyne!” he cried, and, seizing one of his pistols,
+fired it at the messenger, who fell dead at his feet,—“Euphrosyne,
+behold thy first victim!” Springing on his horse, he galloped towards
 Janina. His guards followed at a distance, and the inhabitants of all
 the villages he passed fled at his approach. He paid no attention to
 them, but rode till his horse fell dead by the lake which had engulfed
@@ -1316,18 +1315,18 @@ Euphrosyne, and then, taking a boat, he went to hide his grief and rage
 in his own palace.
 
 Ali, caring little for passion which evaporated in tears and cries, sent
-an order to Mouktar to appear before him at once. "He will not kill
-you," he remarked to his messenger, with a bitter smile. And, in fact,
+an order to Mouktar to appear before him at once. “He will not kill
+you,” he remarked to his messenger, with a bitter smile. And, in fact,
 the man who a moment before was furiously raging and storming against
 his father, as if overwhelmed by this imperious message, calmed down,
 and obeyed.
 
-"Come hither, Mouktar," said the pacha, extending his murderous hand to
-be kissed as soon as his son appeared. "I shall take no notice of your
+“Come hither, Mouktar,” said the pacha, extending his murderous hand to
+be kissed as soon as his son appeared. “I shall take no notice of your
 anger, but in future never forget that a man who braves public opinion
 as I do fears nothing in the world. You can go now; when your troops
 have rested from their march, you can come and ask for orders. Go,
-remember what I have said."
+remember what I have said.”
 
 Mouktar retired as submissively as if he had just received pardon for
 some serious crime, and found no better consolation than to spend the
@@ -1365,9 +1364,9 @@ Chainitza arrived safely at Trikala, and faithfully delivered the
 messages with which she had been entrusted. When the ceremony she so
 ardently desired took place, she herself took charge of all the
 arrangements. Elmas, wearing the black fox pelisse, was proclaimed, and
-acknowledged as Governor of Thessaly in her presence. "My son is pacha!"
-she cried in the delirium of joy. "My son is pacha! and my nephews will
-die of envy!" But her triumph was not to be of long duration. A few days
+acknowledged as Governor of Thessaly in her presence. “My son is pacha!”
+she cried in the delirium of joy. “My son is pacha! and my nephews will
+die of envy!” But her triumph was not to be of long duration. A few days
 after his installation, Elmas began to feel strangely languid. Continual
 lethargy, convulsive sneezing, feverish eyes, soon betokened a serious
 illness. Ali’s gift had accomplished its purpose. The pelisse, carefully
@@ -1415,29 +1414,29 @@ the tumult and sought refuge at his feet. Ali, astonished, asked who she
 was. She answered with a look of mingled innocence and terror, kissing
 his hands, which she bathed with tears, and said:
 
-"O my lord! I implore thee to intercede with the terrible vizier Ali for
+“O my lord! I implore thee to intercede with the terrible vizier Ali for
 my mother and brothers. My father is dead, behold where he hangs at the
 door of our cottage! But we have done nothing to rouse the anger of our
 dreadful master. My mother is a poor woman who never offended anyone,
-and we are only weak children. Save us from him!"
+and we are only weak children. Save us from him!”
 
 Touched in spite of himself, the pacha took the girl in his arms, and
 answered her with a gentle smile.
 
-"Thou hast come to the wrong man, child: I am this terrible vizier."
+“Thou hast come to the wrong man, child: I am this terrible vizier.”
 
-"Oh no, no! you are good, you will be our good lord."
+“Oh no, no! you are good, you will be our good lord.”
 
-"Well, be comforted, my child, and show me thy mother and thy brothers;
-they shall be spared. Thou hast saved their lives."
+“Well, be comforted, my child, and show me thy mother and thy brothers;
+they shall be spared. Thou hast saved their lives.”
 
 And as she knelt at his feet, overcome with joy, he raised her and asked
 her name.
 
-"Basilessa," she replied.
+“Basilessa,” she replied.
 
-"Basilessa, Queen! it is a name of good augury. Basilessa, thou shalt
-dwell with me henceforth."
+“Basilessa, Queen! it is a name of good augury. Basilessa, thou shalt
+dwell with me henceforth.”
 
 And he collected the members of her family, and gave orders for them to
 be sent to Janina in company with the maiden, who repaid his mercy with
@@ -1452,24 +1451,24 @@ village, and was told there was an old infirm woman of that name in
 great poverty. He ordered her to be brought before him. She came and
 prostrated herself in terror. Ali raised her kindly.
 
-"Dost thou not know me?" he asked.
+“Dost thou not know me?” he asked.
 
-"Have mercy, great Vizier," answered the poor woman, who, having nothing
+“Have mercy, great Vizier,” answered the poor woman, who, having nothing
 to lose but her life, imagined that even that would be taken from her.
 
-"I see," said the pacha, "that if thou knowest me, thou dost not really
-recognise me."
+“I see,” said the pacha, “that if thou knowest me, thou dost not really
+recognise me.”
 
 The woman looked at him wonderingly, not understanding his words in the
 least.
 
-"Dost thou remember," continued Ali, "that forty years ago a young man
+“Dost thou remember,” continued Ali, “that forty years ago a young man
 asked for shelter from the foes who pursued him? Without inquiring his
 name or standing, thou didst hide him in thy humble house, and dressed
 his wounds, and shared thy scanty food with him, and when he was able to
 go forward thou didst stand on thy threshold to wish him good luck and
 success. Thy wishes were heard, for the young man was Ali Tepeleni, and
-I who speak am he!"
+I who speak am he!”
 
 The old woman stood overwhelmed with astonishment. She departed calling
 down blessings on the pasha, who assured her a pension of fifteen
@@ -1504,11 +1503,11 @@ Bey, who had been alternately both tool and enemy, whom he made
 secretary to his son Veli, professedly as a pledge of reconciliation and
 favour, but really in order to despoil him more easily of the
 considerable property which he possessed at Janina. Pacho was not
-deceived, and showed his resentment openly. "The wretch banishes me," he
-cried, pointing out Ali, who was sitting at a window in the palace, "he
+deceived, and showed his resentment openly. “The wretch banishes me,” he
+cried, pointing out Ali, who was sitting at a window in the palace, “he
 sends me away in order to rob me; but I will avenge myself whatever
 happens, and I shall die content if I can procure his destruction at the
-price of my own."
+price of my own.”
 
 Continually increasing his power, Ali endeavoured to consolidate it
 permanently. He had entered by degrees into secret negotiations with all
@@ -1516,7 +1515,7 @@ the great powers of Europe, hoping in the end to make himself
 independent, and to obtain recognition as Prince of Greece. A mysterious
 and unforeseen incident betrayed this to the Porte, and furnished actual
 proofs of his treason in letters confirmed by Ali’s own seal. The Sultan
-Selim immediately, sent to Janina a "kapidgi-bachi," or plenipotentiary,
+Selim immediately, sent to Janina a “kapidgi-bachi,” or plenipotentiary,
 to examine into the case and try the delinquent.
 
 Arrived at Janina, this officer placed before Ali the proofs of his
@@ -1524,14 +1523,14 @@ understanding with the enemies of the State. Ali was not strong enough
 to throw off the mask, and yet could not deny such overwhelming
 evidence. He determined to obtain time.
 
-"No wonder," said he, "that I appear guilty in the eyes of His Highness.
+“No wonder,” said he, “that I appear guilty in the eyes of His Highness.
 This seal is, certainly mine, I cannot deny it; but the writing is not
 that of my secretaries, and the seal must have been obtained and used to
 sign these guilty letters in order to ruin me. I pray you to grant me a
 few days in order to clear up this iniquitous mystery, which compromises
 me in the eyes of my master the sultan and of all good Mahommedans. May
 Allah grant me the means of proving my innocence, which is as pure as
-the rays of the sun, although everything seems against me!"
+the rays of the sun, although everything seems against me!”
 
 After this conference, Ali, pretending to be engaged in a secret
 inquiry, considered how he could legally escape from this predicament.
@@ -1541,7 +1540,7 @@ clear of one of the greatest difficulties in which he had ever found
 himself. Sending for a Greek whom he had often employed, he addressed
 him thus:
 
-"Thou knowest I have always shown thee favour, and the day is arrived
+“Thou knowest I have always shown thee favour, and the day is arrived
 when thy fortune shall be made. Henceforth thou shalt be as my son, thy
 children shall be as mine, my house shall be thy home, and in return for
 my benefits I require one small service. This accursed kapidgi-bachi has
@@ -1552,18 +1551,18 @@ being plundered except for the sake of a good servant like thee.
 Therefore, my son, thou shalt go before the tribunal when I tell thee,
 and declare before this kapidgi-bachi and the cadi that thou hast
 written these letters attributed to me, and that thou didst seal them
-with my seal, in order to give them due weight and importance."
+with my seal, in order to give them due weight and importance.”
 
 The unhappy Greek grew pale and strove to answer.
 
-"What fearest thou, my son?" resumed Ali. "Speak, am I not thy good
+“What fearest thou, my son?” resumed Ali. “Speak, am I not thy good
 master? Thou wilt be sure of my lasting favour, and who is there to
 dread when I protect thee? Is it the kapidgi-bachi? he has no authority
 here. I have thrown twenty as good as he into the lake! If more is
 required to reassure thee, I swear by the Prophet, by my own and my
 sons’ heads, that no harm shall come to thee from him. Be ready, then,
 to do as I tell thee, and beware of mentioning this matter to anyone, in
-order that all may be accomplished according to our mutual wishes."
+order that all may be accomplished according to our mutual wishes.”
 
 More terrified by dread of the pacha, from whose wrath in case of
 refusal there was no chance of escape, than tempted by his promises, the
@@ -1571,34 +1570,34 @@ Greek undertook the false swearing required. Ali, delighted, dismissed
 him with a thousand assurances of protection, and then requested the
 presence of the sultan’s envoy, to whom he said, with much emotion:
 
-"I have at length unravelled the infernal plot laid against me; it is
+“I have at length unravelled the infernal plot laid against me; it is
 the work of a man in the pay of the implacable enemies of the Sublime
 Porte, and who is a Russian agent. He is in my power, and I have given
 him hopes of pardon on condition of full confession. Will you then
 summon the cadi, the judges and ecclesiastics of the town, in order that
 they may hear the guilty man’s deposition, and that the light of truth
-may purify their minds?"
+may purify their minds?”
 
 The tribunal was soon assembled, and the trembling Greek appeared in the
-midst of a solemn silence. "Knowest thou this writing?" demanded the
-cadi.—"It is mine."—"And this seal?"—"It is that of my master, Ali
-Pacha."—"How does it come to be placed at the foot of these letters?"—"I
+midst of a solemn silence. “Knowest thou this writing?” demanded the
+cadi.—“It is mine.”—“And this seal?”—“It is that of my master, Ali
+Pacha.”—“How does it come to be placed at the foot of these letters?”—“I
 did this by order of my chief, abusing the confidence of my master, who
-occasionally allowed me to use it to sign his orders."—"It is enough:
-thou canst withdraw."
+occasionally allowed me to use it to sign his orders.”—“It is enough:
+thou canst withdraw.”
 
 Uneasy as to the success of his intrigue, Ali was approaching the Hall
 of Justice. As he entered the court, the Greek, who had just finished
 his examination, threw himself at his feet, assuring him that all had
-gone well. "It is good," said Ali; "thou shalt have thy reward." Turning
+gone well. “It is good,” said Ali; “thou shalt have thy reward.” Turning
 round, he made a sign to his guards, who had their orders, and who
 instantly seized the unhappy Greek, and, drowning his voice with their
 shouts, hung him in the courtyard. This execution finished, the pacha
 presented himself before the judges and inquired the result of their
-investigation. He was answered by a burst of congratulation. "Well,"
-said he, "the guilty author of this plot aimed at me is no more; I
+investigation. He was answered by a burst of congratulation. “Well,”
+said he, “the guilty author of this plot aimed at me is no more; I
 ordered him to be hung without waiting to hear your decision. May all
-enemies of our glorious sultan perish even as he!"
+enemies of our glorious sultan perish even as he!”
 
 A report of what had occurred was immediately drawn up, and, to assist
 matters still further, Ali sent the kapidgi-bachi a gift of fifty
@@ -1717,12 +1716,12 @@ spoke familiarly of the days of their youth, of their games, their early
 friendships, and pointing to the young men, said, with tears in his
 eyes.
 
-"The discord which has divided us for so many years has allowed children
+“The discord which has divided us for so many years has allowed children
 not born at the time of our dissension to grow into men. I have lost the
 pleasure of watching the development of the off-spring of my neighbours
 and the early friends of my youth, and of bestowing benefits on them,
 but I hope shortly to repair the natural results of our melancholy
-divisions."
+divisions.”
 
 He then made them splendid promises, and ordered them to assemble in a
 neighbouring caravanserai, where he wished to give them a banquet in
@@ -1738,7 +1737,7 @@ mounted his horse, and, followed by his troops, rode towards the
 caravanserai. Alone, and in silence, he rode twice round it, then,
 returning to the gate, which had just been closed by his order, he
 pulled up his horse, and, signing to his own bodyguard to attack the
-building, "Slay them!" he cried in a voice of thunder.
+building, “Slay them!” he cried in a voice of thunder.
 
 The guards remained motionless in surprise and horror, then as the
 pacha, with a roar, repeated his order, they indignantly flung down
@@ -1747,23 +1746,23 @@ preserved a sullen silence, others ventured to demand mercy. Then he
 ordered them away, and, calling on the Christian Mirdites who served
 under his banner.
 
-"To you, brave Latins," he cried, "I will now entrust the duty of
+“To you, brave Latins,” he cried, “I will now entrust the duty of
 exterminating the foes of my race. Avenge me, and I will reward you
-magnificently."
+magnificently.”
 
 A confused murmur rose from the ranks. Ali imagined they were consulting
 as to what recompense should be required as the price of such deed.
 
-"Speak," said he; "I am ready to listen to your demands and to satisfy
-them."
+“Speak,” said he; “I am ready to listen to your demands and to satisfy
+them.”
 
 Then the Mirdite leader came forward and threw back the hood of his
 black cloak.
 
-"O Pacha!" said he, looking Ali boldly in the face, "thy words are an
+“O Pacha!” said he, looking Ali boldly in the face, “thy words are an
 insult; the Mirdites do not slaughter unarmed prisoners in cold blood.
 Release the Kardikiotes, give them arms, and we will fight them to the
-death; but we serve thee as soldiers and not as executioners."
+death; but we serve thee as soldiers and not as executioners.”
 
 At these words; which the black-cloaked battalion received with
 applause, Ali thought himself betrayed, and looked around with doubt and
@@ -1841,13 +1840,13 @@ dejected, alone preserved his equanimity, until at length the sheik
 accused him of having caused the death of Emineh. He then grew pale, and
 rising, cried with terror:
 
-"Alas! my father, whose name do you now pronounce? Pray for me, or at
-least do not sink me to Gehenna with your curses!"
+“Alas! my father, whose name do you now pronounce? Pray for me, or at
+least do not sink me to Gehenna with your curses!”
 
-"There is no need to curse thee," answered Yussuf. "Thine own crimes
+“There is no need to curse thee,” answered Yussuf. “Thine own crimes
 bear witness against thee. Allah has heard their cry. He will summon
 thee, judge thee, and punish thee eternally. Tremble, for the time is at
-hand! Thine hour is coming—is coming—is coming!"
+hand! Thine hour is coming—is coming—is coming!”
 
 Casting a terrible glance at the pacha, the holy man turned his back on
 him, and stalked out of the apartment without another word.
@@ -2029,7 +2028,7 @@ they must inevitably have surrendered had they been left to themselves.
 But they had sought protection from the French, who had garrisoned the
 citadel, and the French grenadiers descending rapidly from the height,
 charged the Turks with so much fury that they fled in all directions,
-leaving on the field four "bimbashis," or captains of a thousand, and a
+leaving on the field four “bimbashis,” or captains of a thousand, and a
 considerable number of killed and wounded.
 
 The pacha’s fleet succeeded no better than his army. Issuing from the
@@ -2056,19 +2055,19 @@ messenger informed him of the defeat of his army. Ali changed
 countenance, and could scarcely articulate the order to return to
 Prevesa. Once in his palace, he gave way to such fury that all around
 him trembled, demanding frequently if it could be true that his troops
-were beaten. "May your misfortune be upon us!" his attendants answered,
+were beaten. “May your misfortune be upon us!” his attendants answered,
 prostrating themselves. All at once, looking out on the calm blue sea
 which lay before his windows, he perceived his fleet doubling Cape
 Pancrator and re-entering the Ambracian Gulf under full sail; it
 anchored close by the palace, and on hailing the leading ship a speaking
 trumpet announced to Ali the death of his admiral, Athanasius Macrys.
 
-"But Parga, Parga!" cried Ali.
+“But Parga, Parga!” cried Ali.
 
-"May Allah grant the pacha long life! The Parganiotes have escaped the
-sword of His Highness."
+“May Allah grant the pacha long life! The Parganiotes have escaped the
+sword of His Highness.”
 
-"It is the will of Allah!" murmured the pacha; whose head sank upon his
+“It is the will of Allah!” murmured the pacha; whose head sank upon his
 breast in dejection.
 
 Arms having failed, Ali, as usual, took refuge in plots and treachery,
@@ -2081,7 +2080,7 @@ weaken them by division.
 CHAPTER VII
 
 
-The French commander Nicole, surnamed the "Pilgrim," on account of a
+The French commander Nicole, surnamed the “Pilgrim,” on account of a
 journey he had once made to Mecca, had spent six months at Janina with a
 brigade of artillery which General Marmont, then commanding in the
 Illyrian provinces, had for a time placed at Ali’s disposal. The old
@@ -2122,7 +2121,7 @@ that the Ottoman Empire should remain intact, and that the Greek navy,
 beginning to be formidable, must be destroyed. With these objects in
 view, negotiations with Ali Pacha were resumed. The latter was still
 smarting under his recent disappointment, and to all overtures answered
-only, "Parga! I must have Parga."—And the English were compelled to
+only, “Parga! I must have Parga.”—And the English were compelled to
 yield it!
 
 Trusting to the word of General Campbell, who had formally promised, on
@@ -2148,9 +2147,9 @@ was intercepted, and he endeavoured by means of his agents to rouse the
 Parganiotes against them. The latter lamented bitterly, and appealed to
 Christian Europe, which remained deaf to their cries. In the name of
 their ancestors, they demanded the rights which had been guaranteed
-them. "They will buy our lands," they said; "have we asked to sell them?
+them. “They will buy our lands,” they said; “have we asked to sell them?
 And even if we received their value, can gold give us a country and the
-tombs of our ancestors?"
+tombs of our ancestors?”
 
 Ali Pacha invited the Lord High Commissioner of Great Britain, Sir
 Thomas Maitland, to a conference at Prevesa, and complained of the
@@ -2262,10 +2261,10 @@ streets the satirical verses which, faithful to the poetical and mocking
 genius of them ancestors, the Greeks frequently composed about him, he
 would order the singer to be brought, would bid him repeat his verses,
 and, applauding him, would relate some fresh anecdote of cruelty,
-saying, "Go, add that to thy tale; let thy hearers know what I can do;
+saying, “Go, add that to thy tale; let thy hearers know what I can do;
 let them understand that I stop at nothing in order to overcome my foes!
 If I reproach myself with anything, it is only with the deeds I have
-sometimes failed to carry out."
+sometimes failed to carry out.”
 
 Sometimes it was the terrors of the life after death which assailed him.
 The thought of eternity brought terrible visions in its train, and Ali
@@ -2312,12 +2311,12 @@ The pasha despised the human race as much as he hated it. A European
 having reproached him with the cruelty shown to his subjects, Ali
 replied:—
 
-"You do not understand the race with which I have to deal. Were I to
+“You do not understand the race with which I have to deal. Were I to
 hang a criminal on yonder tree, the sight would not deter even his own
 brother from stealing in the crowd at its foot. If I had an old man
 burnt alive, his son would steal the ashes and sell them. The rabble can
 be governed by fear only, and I am the one man who does it
-successfully."
+successfully.”
 
 His conduct perfectly corresponded to his ideas. One great feast-day,
 two gipsies devoted their lives in order to avert the evil destiny of
@@ -2357,16 +2356,16 @@ simply took up the pavement in Janina and the neighbouring towns, with
 the result that in summer one was choked by dust, and in winter could
 hardly get through the mud. He rejoiced in the public inconvenience, and
 one day having to go out in heavy rain, he remarked to one of the
-officers of his escort, "How delightful to be driven through this in a
+officers of his escort, “How delightful to be driven through this in a
 carriage, while you will have the pleasure of following on horseback!
 You will be wet and dirty, whilst I smoke my pipe and laugh at your
-condition."
+condition.”
 
 He could not understand why Western sovereigns should permit their
 subjects to enjoy the same conveniences and amusements as themselves.
-"If I had a theatre," he said, "I would allow no one to be present at
+“If I had a theatre,” he said, “I would allow no one to be present at
 performances except my own children; but these idiotic Christians do not
-know how to uphold their own dignity."
+know how to uphold their own dignity.”
 
 There was no end to the mystifications which it amused the pacha to
 carry out with those who approached him.
@@ -2380,18 +2379,18 @@ with the utmost calm, and as he went out told him, still in Turkish, to
 come again the next day.
 
 An unexpected occurrence seemed, like the warning finger of Destiny, to
-indicate an evil omen for the pacha’s future. "Misfortunes arrive in
-troops," says the forcible Turkish proverb, and a forerunner of
+indicate an evil omen for the pacha’s future. “Misfortunes arrive in
+troops,” says the forcible Turkish proverb, and a forerunner of
 disasters came to Ali Dacha.
 
 One morning he was suddenly roused by the Sheik Yussuf, who had forced
-his way in, in spite of the guards. "Behold!" said he, handing Ali a
-letter, "Allah, who punishes the guilty, has permitted thy seraglio of
+his way in, in spite of the guards. “Behold!” said he, handing Ali a
+letter, “Allah, who punishes the guilty, has permitted thy seraglio of
 Tepelen to be burnt. Thy splendid palace, thy beautiful furniture,
 costly stuffs, cashmeers, furs, arms, all are destroyed! And it is thy
 youngest and best beloved son, Salik Bey himself, whose hand kindled the
-flames!" So saying; Yussuf turned and departed, crying with a triumphant
-voice, "Fire! fire! fire!"
+flames!” So saying; Yussuf turned and departed, crying with a triumphant
+voice, “Fire! fire! fire!”
 
 Ali instantly ordered his horse, and, followed by his guards, rode
 without drawing rein to Tepelen. As soon as he arrived at the place
@@ -2483,18 +2482,18 @@ distance, Pacho Bey assumed the latter’s part, and the sultan’s
 confidential messenger informed him that he was the bearer of a firman
 granted at the request of Ali Pacha of Janina.
 
-"Ali of Tepelenir. He is my friend. How can I serve him?"
+“Ali of Tepelenir. He is my friend. How can I serve him?”
 
-"By executing the present order, sent you by the Divan, desiring you to
+“By executing the present order, sent you by the Divan, desiring you to
 behead a traitor, named Pacho Bey, who crept into your service a short
 time ago.
 
-"Willingly I but he is not an easy man to seize being brave, vigorous,
+“Willingly I but he is not an easy man to seize being brave, vigorous,
 clever, and cunning. Craft will be necessary in this case. He may appear
 at any moment, and it is advisable that he should not see you. Let no
 one suspect who you are, but go to Drama, which is only two hours
 distant, and await me there. I shall return this evening, and you can
-consider your errand as accomplished."
+consider your errand as accomplished.”
 
 The kapidgi-bachi made a sign of comprehension, and directed his course
 towards Drama; while Ismail, fearing that the Nazir, who had only known
@@ -2638,8 +2637,8 @@ and Ali himself was sovereign prince in everything but the name.
 
 There was no lack of flattery, even from literary persons. At Vienna a
 poem was pointed in his honour, and a French-Greek Grammar was dedicated
-to him, and such titles as "Most Illustrious," "Most Powerful," and
-"Most Clement," were showered upon him, as upon a man whose lofty
+to him, and such titles as “Most Illustrious,” “Most Powerful,” and
+“Most Clement,” were showered upon him, as upon a man whose lofty
 virtues and great exploits echoed through the world. A native of
 Bergamo, learned in heraldry, provided him with a coat of arms,
 representing, on a field gules, a lion, embracing three cubs, emblematic
@@ -2663,9 +2662,9 @@ every sort and kind, pirates, coiners, renegades, assassins, whom he
 kept in his pay and regarded as his best support. These he sought to
 attach to his person as men who might some day be found useful, for he
 did not allow the many favours of fortune to blind him to the real
-danger of his position. A vizier," he was answered, "resembles a man
+danger of his position. A vizier,” he was answered, “resembles a man
 wrapped in costly furs, but he sits on a barrel of powder, which only
-requires a spark to explode it." The Divan granted all the concessions
+requires a spark to explode it.” The Divan granted all the concessions
 which Ali demanded, affecting ignorance of his projects of revolt and
 his intelligence with the enemies of the State; but then apparent
 weakness was merely prudent temporising. It was considered that Ali,
@@ -2687,9 +2686,9 @@ influence to carry out their plans of vengeance on the Tepelenian
 family. The news of Pacho Bey’s promotion roused Ali from the security
 in which he was plunged, and he fell a prey to the most lively anxiety.
 Comprehending at once the evil which this man,—trained in his own
-school, might cause him, he exclaimed, "Ah! if Heaven would only restore
+school, might cause him, he exclaimed, “Ah! if Heaven would only restore
 me the strength of my youth, I would plunge my sword into his heart even
-in the midst of the Divan."
+in the midst of the Divan.”
 
 It was not long before Ali’s enemies found an extremely suitable
 opportunity for opening their attack. Veli Pacha, who had for his own
@@ -2742,9 +2741,9 @@ mention the name of Ali Tepelen in his presence.
 
 Receiving no answer to his overtures, Ali became a prey to terrible
 anxiety. As he one day opened the Koran to consult it as to his future,
-his divining rod stopped at verse 82, chap. xix., which says, "He doth
+his divining rod stopped at verse 82, chap. xix., which says, “He doth
 flatter himself in vain. He shall appear before our tribunal naked and
-bare." Ali closed the book and spat three times into his bosom. He was
+bare.” Ali closed the book and spat three times into his bosom. He was
 yielding to the most dire presentiments, when a courier, arriving from
 the capital, informed him that all hope of pardon was lost.
 
@@ -2834,11 +2833,11 @@ bear arms in their own defence, continued to pay their taxes, and
 abstained from all hostility.
 
 At the news of this great movement, Ali’s friends advised him to turn it
-to his own advantage. "The Greeks in arms," said they, "want a chief:
+to his own advantage. “The Greeks in arms,” said they, “want a chief:
 offer yourself as their leader. They hate you, it is true, but this
 feeling may change. It is only necessary to make them believe, which is
 easily done, that if they will support your cause you will embrace
-Christianity and give them freedom."
+Christianity and give them freedom.”
 
 There was no time to lose, for matters became daily more serious. Ali
 hastened to summon what he called a Grand Divan, composed of the chiefs
@@ -2852,8 +2851,8 @@ the chains with which Ali had loaded him; and Porphyro, Archbishop of
 Arta, to whom the turban would have been more becoming than the mitre.
 
 Ashamed of the part he was obliged to play, Ali, after long hesitation,
-decided on speaking, and, addressing the Christians, "O Greeks!" he
-said, "examine my conduct with unprejudiced minds, and you will see
+decided on speaking, and, addressing the Christians, “O Greeks!” he
+said, “examine my conduct with unprejudiced minds, and you will see
 manifest proofs of the confidence and consideration which I have ever
 shown you. What pacha has ever treated you as I have done? Who would
 have treated your priests and the objects of your worship with as much
@@ -2868,7 +2867,7 @@ will be seen that I only did harm when compelled thereto by the course
 of events. Interrogate my actions, they will speak more fully than a
 detailed apology.
 
-"My position with regard to the Suliotes allowed no half-and-half
+“My position with regard to the Suliotes allowed no half-and-half
 measures. Having once broken with them, I was obliged either to drive
 them from my country or to exterminate them. I understood the political
 hatred of the Ottoman Cabinet too well not to know that it would declare
@@ -2876,7 +2875,7 @@ war against me sooner or later, and I knew that resistance would be
 impossible, if on one side I had to repel the Ottoman aggression, and on
 the other to fight against the formidable Suliotes.
 
-"I might say the same of the Parganiotes. You know that their town was
+“I might say the same of the Parganiotes. You know that their town was
 the haunt of my enemies, and each time that I appealed to them to change
 their ways they answered only with insults and threats. They constantly
 aided the Suliotes with whom I was at war; and if at this moment they
@@ -2895,17 +2894,17 @@ accepted with enthusiasm. The Suliotes will soon return to their
 ancestral houses, and, reunited under my standard, will join me in
 combating the Osmanlis, our common enemies.
 
-"As to the avarice of which I am accused, it seems easily justified by
+“As to the avarice of which I am accused, it seems easily justified by
 the constant necessity I was under of satisfying the inordinate cupidity
 of the Ottoman ministry, which incessantly made me pay dearly for
 tranquillity. This was a personal affair, I acknowledge, and so also is
 the accumulation of treasure made in order to support the war, which the
-Divan has at length declared."
+Divan has at length declared.”
 
 Here Ali ceased, then having caused a barrel full of gold pieces to be
 emptied on the floor, he continued:
 
-"Behold a part of the treasure I have preserved with so much care, and
+“Behold a part of the treasure I have preserved with so much care, and
 which has been specially obtained from the Turks, our common enemies: it
 is yours. I am now more than ever delighted at being the friend of the
 Greeks. Their bravery is a sure earnest of victory, and we will shortly
@@ -2913,7 +2912,7 @@ re-establish the Greek Empire, and drive the Osmanlis across the
 Bosphorus. O bishops and priests of Issa the prophet! bless the arms of
 the Christians, your children. O primates! I call upon you to defend
 your rights, and to rule justly the brave nation associated with my
-interests."
+interests.”
 
 This discourse produced very different impressions on the Christian
 priests and archons. Some replied only by raising looks of despair to
@@ -2921,8 +2920,8 @@ Heaven, others murmured their adhesion. A great number remained
 uncertain, not knowing what to decide. The Mirdite chief, he who had
 refused to slaughter the Kardikiotes, declared that neither he nor any
 Skipetar of the Latin communion would bear arms against their legitimate
-sovereign the sultan. But his words were drowned by cries of "Long live
-Ali Pasha! Long live the restorer of liberty!" uttered by some chiefs of
+sovereign the sultan. But his words were drowned by cries of “Long live
+Ali Pasha! Long live the restorer of liberty!” uttered by some chiefs of
 adventurers and brigands.
 
 
@@ -3109,11 +3108,11 @@ and Ghazi, of Victorius. After this ceremony, the cadi read the
 sentence, confirmed by the Mufti, which declared Tepelen Veli-Zade to
 have forfeited his dignities and to be excommunicated, adding an
 injunction to all the faithful that henceforth his name was not to be
-pronounced except with the addition of "Kara," or "black," which is
+pronounced except with the addition of “Kara,” or “black,” which is
 bestowed on those cut off from the congregation of Sunnites, or Orthodox
 Mohammedans. A Marabout then cast a stone towards the castle, and the
-anathema upon "Kara Ali" was repeated by the whole Turkish army, ending
-with the cry of "Long live the sultan! So be it!"
+anathema upon “Kara Ali” was repeated by the whole Turkish army, ending
+with the cry of “Long live the sultan! So be it!”
 
 But it was not by ecclesiastical thunders that three fortresses could be
 reduced, which were defended by artillerymen drawn from different
@@ -3179,7 +3178,7 @@ lo! it opened of itself, and they beheld Chainitza standing before them,
 a carabine in her hand, pistols in her belt, and, for all guard, two
 large dogs.
 
-"Halt! ye daring ones," she cried; "neither my life nor my treasure will
+“Halt! ye daring ones,” she cried; “neither my life nor my treasure will
 ever be at your mercy. Let one of you move a step without my permission,
 and this place and the ground beneath your feet’ will engulf you. Ten
 thousand pounds of powder are in these cellars. I will, however, grant
@@ -3189,7 +3188,7 @@ which my brother’s enemies have recently inflicted on you. But depart
 this instant without a word, and dare not to trouble me again; I have
 other means of destruction at command besides gunpowder. Life is nothing
 to me, remember that; but your mountains may yet at my command become
-the tomb of your wives and children. Go!"
+the tomb of your wives and children. Go!”
 
 She ceased, and her would-be murderers fled terror.
 
@@ -3197,17 +3196,17 @@ Shortly after the plague broke out in these mountains, Chainitza had
 distributed infected garments among gipsies, who scattered contagion
 wherever they went.
 
-"We are indeed of the same blood!" cried Ali with pride, when he heard
+“We are indeed of the same blood!” cried Ali with pride, when he heard
 of his sister’s conduct; and from that hour he appeared to regain all
 the fire and audacity of his youth. When, a few days later, he was
 informed that Mouktar and Veli, seduced by the brilliant promises of
-Dacha Bey, had surrendered Prevesa and Argyro-Castron, "It does not
-surprise me," he observed coldly. "I have long known them to be unworthy
+Dacha Bey, had surrendered Prevesa and Argyro-Castron, “It does not
+surprise me,” he observed coldly. “I have long known them to be unworthy
 of being my sons, and henceforth my only children and heirs are those
-who defend my cause." And on hearing a report that both had been
-beheaded by Dacha Bey’s order, he contented himself with saying, "They
+who defend my cause.” And on hearing a report that both had been
+beheaded by Dacha Bey’s order, he contented himself with saying, “They
 betrayed their father, and have only received their deserts; speak no
-more of them." And to show how little it discouraged him, he redoubled
+more of them.” And to show how little it discouraged him, he redoubled
 his fire upon the Turks.
 
 But the latter, who had at length obtained some artillery, answered his
@@ -3232,8 +3231,8 @@ enjoyed immunity from the guns of Janina, was one day overwhelmed with
 bombs. The Suliots were terrified, until they remarked that the bombs
 did not burst. They then, much astonished, proceeded to pick up and
 examine these projectiles. Instead of a match, they found rolls of paper
-enclosed in a wooden cylinder, on which was engraved these words, "Open
-carefully." The paper contained a truly Macchiavellian letter from Ali,
+enclosed in a wooden cylinder, on which was engraved these words, “Open
+carefully.” The paper contained a truly Macchiavellian letter from Ali,
 which began by saying that they were quite justified in having taken up
 arms against him, and added that he now sent them a part of the pay of
 which the traitorous Ismail was defrauding them, and that the bombs
@@ -3311,7 +3310,7 @@ the palisades, and then ascending Mount Paktoras with his troops, waited
 for dawn in order to announce his defection to the Turkish army. As soon
 as the sun appeared he ordered a general salvo of artillery and shouted
 his war-cry. A few Turks in charge of an outpost were slain, the rest
-fled. A cry of "To arms" was raised, and the standard of the Cross
+fled. A cry of “To arms” was raised, and the standard of the Cross
 floated before the camp of the infidels.
 
 Signs and omens of a coming general insurrection appeared on all sides;
@@ -3357,7 +3356,7 @@ commanded Suli. He replied with the information that he intended,
 January 26, to attack the camp of Pacho Bey early in the morning, and
 requested their assistance. In order to cause a diversion, they were to
 descend into the valley of Janina at night, and occupy a position which
-he pointed out to them, and he gave their the word "flouri" as password
+he pointed out to them, and he gave their the word “flouri” as password
 for the night. If successful, he undertook to grant their request.
 
 Ali’s letter was intercepted, and fell into Ismail’s hands, who
@@ -3411,7 +3410,7 @@ he perceived at a little distance an encampment which he supposed to be
 that of the Suliots. He then ordered the Mirdite prince, Kyr Lekos, to
 advance with an escort of twenty-five men, and when within hearing
 distance to wave a blue flag and call out the password. An Imperial
-officer replied with the countersign "flouri," and Lekos immediately
+officer replied with the countersign “flouri,” and Lekos immediately
 sent back word to Ali to advance. His orderly hastened back, and the
 prince entered the camp, where he and his escort were immediately
 surrounded and slain.
@@ -3420,7 +3419,7 @@ On receiving the message, Ali began to advance, but cautiously, being
 uneasy at seeing no signs of the Mirdite troop. Suddenly, furious cries,
 and a lively fusillade, proceeding from the vineyards and thickets,
 announced that he had fallen into a trap, and at the same moment Omar
-Pacha fell upon his advance guard, which broke, crying "Treason!".
+Pacha fell upon his advance guard, which broke, crying “Treason!”.
 
 Ali sabred the fugitives mercilessly, but fear carried them away, and,
 forced to follow the crowd, he perceived the Kersales and Baltadgi Pacha
@@ -3508,8 +3507,8 @@ Selleide.
 The Seraskier replied in a friendly manner, ordered the military salute
 to be returned in Ali’s honour, shot for shot, and forbade that
 henceforth a person of the valour and intrepidity of the Lion of Tepelen
-should be described by the epithet of "excommunicated." He also spoke of
-him by his title of "vizier," which he declared he had never forfeited
+should be described by the epithet of “excommunicated.” He also spoke of
+him by his title of “vizier,” which he declared he had never forfeited
 the right to use; and he also stated that he had only entered Epirus as
 a peace-maker. Kursheed’s emissaries had just seized some letters sent
 by Prince Alexander Ypsilanti to the Greek captains at Epirus. Without
@@ -3538,7 +3537,7 @@ imagined that these overtures of reconciliation were only a proof of the
 inability of his foes to subdue him, and he sent the following
 propositions to Kursheed Pacha:
 
-"If the first duty of a prince is to do justice, that of his subjects is
+“If the first duty of a prince is to do justice, that of his subjects is
 to remain faithful, and obey him in all things. From this principle we
 derive that of rewards and punishments, and although my services might
 sufficiently justify my conduct to all time, I nevertheless acknowledge
@@ -3560,7 +3559,7 @@ the past for all those who have served me until now. And if these
 conditions are not accepted without modifications, I am prepared to
 defend myself to the last.
 
-"Given at the castle of Janina, March 7, 1821."
+“Given at the castle of Janina, March 7, 1821.”
 
 
 
@@ -3604,11 +3603,11 @@ he was visited by a bomb which caused him to leave it again with all
 haste. This greeting was due to Ali’s chief engineer, Caretto, who next
 day sent a whole shower of balls and shells into the midst of a group of
 Frenchmen, whose curiosity had brought them to Tika, where Kursheed was
-forming a battery. "It is time," said Ali, "that these contemptible
+forming a battery. “It is time,” said Ali, “that these contemptible
 gossip-mongers should find listening at doors may become uncomfortable.
 I have furnished matter enough for them to talk about. Frangistan
 (Christendom) shall henceforth hear only of my triumph or my fall, which
-will leave it considerable trouble to pacify." Then, after a moment’s
+will leave it considerable trouble to pacify.” Then, after a moment’s
 silence, he ordered the public criers to inform his soldiers of the
 insurrections in Wallachia and the Morea, which news, proclaimed from
 the ramparts, and spreading immediately in the Imperial camp, caused
@@ -3625,12 +3624,12 @@ marched out boldly, and performed prodigies of valour; but at the end of
 an hour, Ali, carried on a litter because of his gout, having led a
 sortie, the besiegers were compelled to give way and retire to their
 intrenchments, leaving three hundred dead at the foot of the rampart.
-"The Pindian bear is yet alive," said Ali in a message to Kursheed;
-"thou mayest take thy dead and bury them; I give them up without ransom,
-and as I shall always do when thou attackest me as a brave man ought."
+“The Pindian bear is yet alive,” said Ali in a message to Kursheed;
+“thou mayest take thy dead and bury them; I give them up without ransom,
+and as I shall always do when thou attackest me as a brave man ought.”
 Then, having entered his fortress amid the acclamations of his soldiers,
 he remarked on hearing of the general rising of Greece and the
-Archipelago, "It is enough! two men have ruined Turkey!" He then
+Archipelago, “It is enough! two men have ruined Turkey!” He then
 remained silent, and vouchsafed no explanation of this prophetic
 sentence.
 
@@ -3655,7 +3654,7 @@ Discipline was relaxed in Kursheed’s camp, and Ali profited thereby to
 ascertain the smallest details of all that passed.
 
 He learned from his spies that the general’s staff, counting on the
-"Truce of God," a tacit suspension of all hostilities during the feast
+“Truce of God,” a tacit suspension of all hostilities during the feast
 of Bairam, the Mohammedan Easter, intended to repair to the chief
 mosque, in the quarter of Loutcha. This building, spared by the bombs,
 had until now been respected by both sides. Ali, according to reports
@@ -3675,7 +3674,7 @@ cypresses which surrounded the building blazing as if they had been
 torches lighted for the funeral ceremonies of sixty captains and two
 hundred soldiers.
 
-"Ali Pacha is yet alive!" cried the old Homeric hero of Janina, leaping
+“Ali Pacha is yet alive!” cried the old Homeric hero of Janina, leaping
 with joy; and his words, passing from mouth to mouth, spread yet more
 terror amid Kursheed’s soldiers, already overwhelmed by the horrible
 spectacle passing before their eyes.
@@ -3690,9 +3689,9 @@ that a conflagration, caused by the besiegers’ fire, had consumed part
 of his store in the castle by the lake. Kursheed, thinking that this
 event must have shaken the old lion’s resolution, recommenced
 negotiations, choosing the Kiaia of Moustai Pacha: as an envoy, who gave
-Ali a remarkable warning. "Reflect," said he, "that these rebels bear
+Ali a remarkable warning. “Reflect,” said he, “that these rebels bear
 the sign of the Cross on their standards. You are now only an instrument
-in their hands. Beware lest you become the victim of their policy." Ali
+in their hands. Beware lest you become the victim of their policy.” Ali
 understood the danger, and had the sultan been better advised, he would
 have pardoned Ali on condition of again bringing Hellos under his iron
 yoke. It is possible that the Greeks might not have prevailed against an
@@ -3728,14 +3727,14 @@ some months past refused to pay his defenders. He contented himself with
 informing his captains of the insurgents’ offer, and telling them that
 he was confident that bravery such as theirs required no reinforcement.
 And when some of them besought him to at least receive two or three
-hundred Palikars into the castle, "No," said he; "old serpents always
-remain old serpents: I distrust the Suliots and their friendship."
+hundred Palikars into the castle, “No,” said he; “old serpents always
+remain old serpents: I distrust the Suliots and their friendship.”
 
 Ignorant of Ali’s decision, the Greeks of the Selleid were advancing, as
 well as the Toxidae, towards Janina, when they received the following
 letter from Ali Pacha:
 
-"My well-beloved children, I have just learned that you are preparing to
+“My well-beloved children, I have just learned that you are preparing to
 despatch a party of your Palikars against our common enemy, Kursheed. I
 desire to inform you that this my fortress is impregnable, and that I
 can hold out against him for several years. The only, service I require
@@ -3745,7 +3744,7 @@ author of the evils and frightful calamities which have so long
 oppressed our unhappy country, which he has laid waste before our eyes.
 Use your best efforts to accomplish this, it will strike at the root of
 the evil, and my treasures shall reward your Palikars, whose courage
-every day gains a higher value in my eyes."
+every day gains a higher value in my eyes.”
 
 Furious at this mystification, the Suliots retired to their mountains,
 and Kursheed profited by the discontent Ali’s conduct had caused, to win
@@ -3835,11 +3834,11 @@ disastrous epidemic, and no longer equal to the necessary labour in
 defence of the place, opened all, the gates simultaneously to the enemy.
 But the besiegers, fearing a trap, advanced very slowly; so that Ali,
 who had long prepared against very sort of surprise, had time to gain a
-place which he called his "refuge."
+place which he called his “refuge.”
 
 It was a sort of fortified enclosure, of solid masonry, bristling with
 cannon, which surrounded the private apartments of his seraglio, called
-the "Women’s Tower." He had taken care to demolish everything which
+the “Women’s Tower.” He had taken care to demolish everything which
 could be set on fire, reserving only a mosque and the tomb of his wife
 Emineh, whose phantom, after announcing an eternal repose, had ceased to
 haunt him. Beneath was an immense natural cave, in which he had stored
@@ -3889,18 +3888,18 @@ uttering involuntary cries of terror. He smiled at their fears, and
 assured them that, being wearied of the weight of his weapons, he had
 only intended to relieve himself of some of them. He then begged them to
 seat themselves, and added that he should like even a more terrible
-funeral than that which they had just ascribed to him. "I do not wish to
-drag down with me," he exclaimed, "those who have come to visit me as
+funeral than that which they had just ascribed to him. “I do not wish to
+drag down with me,” he exclaimed, “those who have come to visit me as
 friends; it is Kursheed, whom I have long regarded as my brother, his
 chiefs, those who have betrayed me, his whole army in short, whom I
 desire to follow me to the tomb—a sacrifice which will be worthy of my
-renown, and of the brilliant end to which I aspire."
+renown, and of the brilliant end to which I aspire.”
 
 The envoys gazed at him with stupefaction, which did not diminish when
 Ali further informed them that they were not only sitting over the arch
 of a casemate filled with two hundred thousand pounds of powder, but
 that the whole castle, which they had so rashly occupied, was
-undermined. "The rest you have seen," he said, "but of this you could
+undermined. “The rest you have seen,” he said, “but of this you could
 not be aware. My riches are the sole cause of the war which has been
 made against me, and in one moment I can destroy them. Life is nothing
 to me, I might have ended it among the Greeks, but could I, a powerless
@@ -3910,19 +3909,19 @@ However, I am attached to those who still surround me, so hear my last
 resolve. Let a pardon, sealed by the sultan’s hands, be given me, and I
 will submit. I will go to Constantinople, to Asia Minor, or wherever I
 am sent. The things I should see here would no longer be fitting for me
-to behold."
+to behold.”
 
 To this Kursheed’s envoys made answer that without doubt these terms
 would be conceded. Ali then touched his breast and forehead, and,
-drawing forth his watch, presented it to the keeper of the wardrobe. "I
-mean what I say, my friend," he observed; "my word will be kept. If
+drawing forth his watch, presented it to the keeper of the wardrobe. “I
+mean what I say, my friend,” he observed; “my word will be kept. If
 within an hour thy soldiers are not withdrawn from this castle which has
 been treacherously yielded to them, I will blow it up. Return to the
 Seraskier, warn him that if he allows one minute more to elapse than the
 time specified, his army, his garrison, I myself and my family, will all
 perish together: two hundred thousand pounds of powder can destroy all
 that surrounds us. Take this watch, I give it thee, and forget not that
-I am a man of my word." Then, dismissing the messengers, he saluted them
+I am a man of my word.” Then, dismissing the messengers, he saluted them
 graciously, observing that he did not expect an answer until the
 soldiers should have evacuated the castle.
 
@@ -4039,8 +4038,8 @@ concluding that all his skill could no longer fight against Destiny, he
 finally gave way.
 
 Drawing a secret token from his bosom, he handed it to Kursheed’s envoy,
-saying, "Go, show this to Selim, and you will convert a dragon into a
-lamb." And in fact, at sight of the talisman, Selim prostrated himself,
+saying, “Go, show this to Selim, and you will convert a dragon into a
+lamb.” And in fact, at sight of the talisman, Selim prostrated himself,
 extinguished the match, and fell, stabbed to the heart. At the same time
 the garrison withdrew, the Imperial standard displayed its blazonry, and
 the lake castle was occupied by the troops of the Seraskier, who rent
@@ -4069,14 +4068,14 @@ wardrobe, and several officers of the army, attended by a numerous
 suite, drew near with gloomy countenances.
 
 Seeing them approach, Ali sprang up impetuously, his hand upon the
-pistols in his belt. "Stand! . . . what is it you bring me?" he cried to
-Hassan in a voice of thunder. "I bring the commands of His Highness the
-Sultan,—knowest thou not these august characters?" And Hassan exhibited
-the brilliantly gilded frontispiece which decorated the firman. "I know
-them and revere them." "Then bow before thy destiny; make thy ablutions;
+pistols in his belt. “Stand! . . . what is it you bring me?” he cried to
+Hassan in a voice of thunder. “I bring the commands of His Highness the
+Sultan,—knowest thou not these august characters?” And Hassan exhibited
+the brilliantly gilded frontispiece which decorated the firman. “I know
+them and revere them.” “Then bow before thy destiny; make thy ablutions;
 address thy prayer to Allah and to His Prophet; for thy, head is
-demanded. . . ." Ali did not allow him to finish. "My head," he cried
-with fury, "will not be surrendered like the head of a slave."
+demanded. . . .” Ali did not allow him to finish. “My head,” he cried
+with fury, “will not be surrendered like the head of a slave.”
 
 These rapidly pronounced words were instantly followed by a pistol-shot
 which wounded Hassan in the thigh. Swift as lightning, a second killed
@@ -4089,13 +4088,13 @@ beside him. He no longer knew which way to turn, hearing the noise made
 by the assailants under the platform, who were firing through the boards
 on which he stood. A ball wounded him in the side, another from below
 lodged in his spine; he staggered, clung to a window, then fell on the
-sofa. "Hasten," he cried to one of his officers, "run, my friend, and
+sofa. “Hasten,” he cried to one of his officers, “run, my friend, and
 strangle my poor Basilissa; let her not fall a prey to these infamous
-wretches."
+wretches.”
 
 The door opened, all resistance ceased, the guards hastened to escape by
 the windows. Kursheed’s sword-bearer entered, followed by the
-executioners. "Let the justice of Allah be accomplished!" said a cadi.
+executioners. “Let the justice of Allah be accomplished!” said a cadi.
 At these words the executioners seized Ali, who was still alive, by the
 beard, and dragged him out into the porch, where, placing his head on
 one of the steps, they separated it from the body with many blows of a
@@ -4123,7 +4122,7 @@ off, and the animal covered with purple housings, while Ali’s shield,
 his sword, his numerous weapons, and various insignia, were borne on the
 saddles of several led horses. The cortege proceeded towards the castle,
 accompanied by hearty imprecations uttered by the soldiers against the
-"Son of a Slave," the epithet bestowed on their sultan by the Turks in
+“Son of a Slave,” the epithet bestowed on their sultan by the Turks in
 seasons of popular excitement.
 
 The Selaon-Aga, an officer appointed to render the proper salutes, acted
@@ -4180,8 +4179,8 @@ of Ali, by the firing of the guns of the seraglio—roused the enthusiasm
 of the military inhabitants of Constantinople to a state of frenzy, and
 triumphant shouts greeted the appearance of a document affixed to the
 head which narrated Ali’s crimes and the circumstances of his death,
-ending with these words: "This is the Head of the above-named Ali Pacha,
-a Traitor to the Faith of Islam."
+ending with these words: “This is the Head of the above-named Ali Pacha,
+a Traitor to the Faith of Islam.”
 
 Having sent magnificent presents to Kursheed, and a hyperbolical
 despatch to his army, Mahmoud II turned his attention to Asia Minor;
@@ -4212,10 +4211,10 @@ inventory of the spoils of their victims.
 
 But the inheritance of Mouktar Pacha was not quite such an easy prey.
 The kapidgi-bachi who dared to present him with the bowstring was
-instantly laid dead at his feet by a pistol-shot. "Wretch!" cried
-Mouktar, roaring like a bull escaped from the butcher, "dost thou think
+instantly laid dead at his feet by a pistol-shot. “Wretch!” cried
+Mouktar, roaring like a bull escaped from the butcher, “dost thou think
 an Arnaout dies like an eunuch? I also am a Tepelenian! To arms,
-comrades! they would slay us!" As he spoke, he rushed, sword in hand,
+comrades! they would slay us!” As he spoke, he rushed, sword in hand,
 upon the Turks, and driving them back, succeeded in barricading himself
 in his apartments.
 
@@ -4233,15 +4232,15 @@ The heads of Ali’s children, sent to Constantinople and exposed at the
 gate of the seraglio, astonished the gaping multitude. The sultan
 himself, struck with the beauty of Mehemet and Selim, whose long
 eyelashes and closed eyelids gave them the appearance of beautiful
-youths sunk in peaceful slumber, experienced a feeling of emotion. "I
-had imagined them," he said stupidly, "to be quite as old as their
-father;" and he expressed sorrow for the fate to which he had condemned
+youths sunk in peaceful slumber, experienced a feeling of emotion. “I
+had imagined them,” he said stupidly, “to be quite as old as their
+father;” and he expressed sorrow for the fate to which he had condemned
 them.
 
 
 
 
-                                  ————
+                                  ――――
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ALI PACHA ***
 
@@ -4255,21 +4254,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/2753
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg™ electronic works to protect the Project
-Gutenberg™ concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this
-eBook for nearly any purpose such as creation of derivative works,
-reports, performances and research. They may be modified and printed and
-given away – you may do practically _anything_ with public domain
-eBooks.  Redistribution is subject to the trademark license, especially
-commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg™ electronic
+works to protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.  They
+may be modified and printed and given away – you may do practically
+_anything_ in the United States with eBooks not protected by U.S.
+copyright law. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
@@ -4315,9 +4315,9 @@ paragraph 1.E below.
 Foundation” or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg™ electronic works. Nearly all the individual works in
 the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg™ mission of promoting free access to electronic works
@@ -4326,6 +4326,7 @@ of this agreement for keeping the Project Gutenberg™ name associated
 with the work. You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg™ License when you share it without charge with others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -4345,20 +4346,25 @@ which the phrase “Project Gutenberg” appears, or with which the phrase
 “Project Gutenberg” is associated) is accessed, displayed, performed,
 viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you’ll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg™ electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges. If you are redistributing or providing access to a work with
-the phrase “Project Gutenberg” associated with or appearing on the work,
-you must comply either with the requirements of paragraphs 1.E.1 through
-1.E.7 or obtain permission for the use of the work and the Project
-Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+from texts not protected by U.S. copyright law (does not contain a
+notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase “Project Gutenberg”
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg™ trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
@@ -4429,21 +4435,22 @@ that
 *1.E.9.* If you wish to charge a fee or distribute a Project Gutenberg™
 electronic work or group of works on different terms than are set forth
 in this agreement, you must obtain permission in writing from both the
-Project Gutenberg Literary Archive Foundation and Michael Hart, the
-owner of the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3. below.
+Project Gutenberg Literary Archive Foundation and The Project Gutenberg
+Trademark LLC, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg™ collection.
-Despite these efforts, Project Gutenberg™ electronic works, and the
-medium on which they may be stored, may contain “Defects,” such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the “Right
 of Replacement or Refund” described in paragraph 1.F.3, the Project
@@ -4474,7 +4481,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -4529,13 +4536,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state’s laws.
 
-The Foundation’s principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation’s web site and official page
-at http://www.pglaf.org
+The Foundation’s principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation’s web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -4590,9 +4597,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg™ eBooks with only a loose network of volunteer support.
 
 Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook’s eBook
 number, often in several formats including plain vanilla ASCII,
